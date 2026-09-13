@@ -14,7 +14,7 @@ Learns in 3 general ways:
 
 Algorithms for SL:
 1. **Linear Regression** (Regression): Finding a straight line to predict exact numbers.
-2. **Logistic Regression** (Classification): Predicting the chance/ percentage of something.
+2. **Logistic Regression/ Sigmoid Function** (Classification): Predicting the chance/ percentage of something.
 3. **Decision Tree** (Regression & Classification (CART)): Asking a series of yes/ no questions to make a decision.
 
 
@@ -24,10 +24,9 @@ Algorithms for SL:
 - Perceptron is the building block of neural network. It is like a neuron.
 
 New Multi-Layer Perceptron (MLP) has 3 layers:
-- Input Layer
-- Hidden Layer
-- Output Layer
+- **Input Layer**: Takes the input data.
+- **Hidden Layer**: Multiplies the input data with **Weight** and **Bias** value
+- **Output Layer**: Provides output data.
 
-The input layer will take a value and will multiply it with the weight and a bias value of it in the hidden layer. then it'll pass an output.
 
 
