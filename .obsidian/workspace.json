@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/7. Python - Pandas.md",
+                "file": "AI-ML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Python - Pandas"
+              "title": "AI-ML"
             }
           }
         ]
@@ -177,23 +177,23 @@
   },
   "active": "8cf33c887edc5177",
   "lastOpenFiles": [
-    "Untitled.md",
     "Python/7. Python - Pandas.md",
+    "Python/8. Python - Matplotlib.md",
+    "Python/6. Python - AI Engineering.md",
+    "Python/1. Python - Roadmap for AL-ML.md",
+    "Python/2. Python - Beginners.md",
+    "Python/3. Python - Extra stuff.md",
     "Python/5. Python - Basic Projects.md",
+    "AI-ML.md",
     "Git & Github/Git & Github Use.md",
     "Git & Github/🧾 Cheat Sheet.md",
     "Git & Github/🧠 Common Words.md",
     "Git & Github/⚠️ Issues & Solutions.md",
     "Environment Setup/Obsidian-VScode Git Sync Guide.md",
     "Extra/plot_types.jpg",
-    "Python/3. Python - Extra stuff.md",
     "Environment Setup/4. Python - Setup VS Code.md",
     "Environment Setup",
-    "Python/2. Python - Beginners.md",
-    "Python/1. Python - Roadmap for AL-ML.md",
     "Environment Setup/VsCode Git Sync.md",
-    "Python/6. Python - AI Engineering.md",
-    "Python/8. Python - Matplotlib.md",
     "Extra/Python & SQL connection.md",
     "Extra/Shotcut/ShowTitleBars.png",
     "Extra/Shotcut/Shotcut.md",
